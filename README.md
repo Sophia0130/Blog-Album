@@ -4,6 +4,7 @@
 
 
 ## 1.相册
+
 album：相册图片
 
 album_mini：相册平铺缩略图
@@ -14,5 +15,7 @@ tools.py、ImageProcess.py：
 
 
 ## 2.博客中用到的图片、视频
+
 blog-img-xxx
+
 blog-video
